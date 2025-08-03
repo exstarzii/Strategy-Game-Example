@@ -1,0 +1,40 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings
+Library/
+*.stacktrace
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.tmp
+*.svd
+*.pdb
+*.mdb
+
+# Rider
+.idea/
+*.sln.iml
+
+# VSCode
+.vscode/
+.vs
+.vsconfig
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Other
+*.apk
+*.aab
+*.keystore
